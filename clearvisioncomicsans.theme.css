@@ -89,4 +89,6 @@
 
 /* Any custom CSS below here */
 
-
+* {
+  font-family: "Comic Sans MS"; 
+}
